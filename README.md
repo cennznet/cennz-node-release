@@ -1,11 +1,4 @@
-# CENNZNet release
+# cennz-node-release
+------
 
----
-
-## Overview
-
-### CENNZ Node
-
-### CENNZ Wallet
-
----
+rUN node software are released to this repository, and be published via runanode.io
